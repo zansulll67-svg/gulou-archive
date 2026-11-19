@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: 引用本数据库时请保留版本号、原始史料来源和实际访问日期。
+title: 天津鼓楼资料数据库
+type: dataset
+authors:
+  - name: 天津鼓楼资料数据库维护者
+version: 1.0.0
+date-released: 2026-11-19
+url: https://gulou-archive-d5gskufry9a093afe-1536818409.tcloudbaseapp.com/
+repository-code: https://github.com/zansulll67-svg/gulou-archive
+license: CC-BY-NC-4.0
+notes: 转录、校勘、图谱与时间轴数据采用 CC BY-NC 4.0；网站代码采用 MIT License；影像与文献原件权利归原权利人或馆藏机构。
+keywords:
+  - 天津鼓楼
+  - 城市史
+  - 建筑史
+  - 历史档案
+  - 报纸校勘
