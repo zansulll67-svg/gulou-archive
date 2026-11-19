@@ -1,0 +1,14 @@
+node_modules/
+dist/
+# 私有层与本地维护脚本：仅维护者本机存在，绝不入库
+assets-private/
+src/data.private.js
+/build_data.py
+# 本地环境配置
+.env
+.env.*
+!.env.example
+# 系统杂项
+~$*
+.DS_Store
+Thumbs.db
